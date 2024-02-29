@@ -1,0 +1,90 @@
+.starting-page-child {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 430px;
+  height: 115px;
+  border: 2px solid black;
+}
+.wonders-of-the {
+  position: absolute;
+  top: 149px;
+  left: 25px;
+  display: inline-block;
+  width: 381px;
+  height: 116px;
+}
+.starting-page-item {
+  position: absolute;
+  top: 456px;
+  left: 38px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-plum);
+  width: 350px;
+  height: 70px;
+  cursor: pointer;
+}
+.login {
+  position: absolute;
+  top: 469px;
+  left: 168px;
+}
+.login a{
+  color: black;
+  text-decoration: none;
+}
+.starting-page-inner {
+  position: absolute;
+  top: 654px;
+  left: 38px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-plum);
+  width: 350px;
+  height: 70px;
+  cursor: pointer;
+}
+.get-started-with {
+  position: absolute;
+  top: 319px;
+  left: 70px;
+}
+.div,
+.div1,
+.or,
+.sign-up {
+  position: absolute;
+  top: 667px;
+  left: 151px;
+}
+
+.sign-up a{
+  color: black;
+  text-decoration: none;
+}
+.div,
+.div1,
+.or {
+  top: 568px;
+  left: 190px;
+}
+.div,
+.div1 {
+  top: 555px;
+  left: 262px;
+}
+.div1 {
+  left: 38px;
+}
+.starting-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

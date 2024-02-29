@@ -1,0 +1,71 @@
+.taj-mahal-agra-india-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 14px;
+  width: 402px;
+  height: 241px;
+  object-fit: cover;
+  border: 2px solid black;
+}
+.taj-mahal-child,
+.taj-mahal-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+  border: 2px solid black;
+}
+.taj-mahal-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.mausoleum1 {
+  text-decoration: underline;
+}
+.mausoleum {
+  color: inherit;
+}
+.this-mausoleum-complex-in-agra {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.taj-mahal3 {
+  margin: 0;
+}
+.back6,
+.taj-mahal2 {
+  position: absolute;
+  top: 94px;
+  left: 143px;
+}
+.back6 {
+  top: 800px;
+  left: 177px;
+}
+
+.back6 a{
+  text-decoration: none;
+  color: black;
+}
+.taj-mahal1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

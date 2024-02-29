@@ -1,0 +1,68 @@
+.statue-christ-the-redeemer-rio-icon {
+  position: absolute;
+  top: 183px;
+  left: 14px;
+  width: 402px;
+  height: 241px;
+  object-fit: cover;
+  border: 2px solid black;
+}
+.christ-the-redeemer-child,
+.christ-the-redeemer-item {
+  position: absolute;
+  top: 77px;
+  left: 37px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 355px;
+  border: 2px solid black;
+  height: 74px;
+}
+.christ-the-redeemer-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.christ-the-redeemer3 {
+  text-decoration: underline;
+}
+.jesus {
+  color: inherit;
+}
+.christ-the-redeemer-container {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.back4,
+.christ-the-redeemer4 {
+  position: absolute;
+  top: 94px;
+  left: 59px;
+}
+.back4 {
+  top: 800px;
+  left: 177px;
+}
+
+.back4 a{
+  color: black;
+  text-decoration: none;
+}
+.christ-the-redeemer1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

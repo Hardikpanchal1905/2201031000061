@@ -1,0 +1,69 @@
+.khaznah-petra-jordan-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 14px;
+  width: 402px;
+  height: 241px;
+  object-fit: cover;
+  border: 2px solid black;
+}
+.petra-child,
+.petra-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+  border: 2px solid black;
+}
+.petra-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.petra3 {
+  text-decoration: underline;
+}
+.jordan {
+  color: inherit;
+}
+.the-ancient-city-container {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.back2,
+.petra4 {
+  position: absolute;
+  top: 94px;
+  left: 175px;
+}
+.back2 {
+  top: 800px;
+  left: 177px;
+}
+
+.back2 a{
+  color: black;
+  text-decoration: none;
+}
+
+.petra1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
