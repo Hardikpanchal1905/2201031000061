@@ -1,0 +1,69 @@
+.colosseum-rome-italy-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 14px;
+  width: 402px;
+  height: 241px;
+  object-fit: cover;
+}
+.colosseum-child,
+.colosseum-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+}
+.colosseum-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.colosseum3 {
+  text-decoration: underline;
+}
+.rome {
+  color: inherit;
+}
+.the-colosseum-in-rome-was-buil {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.colosseum5 {
+  margin: 0;
+}
+.back5,
+.colosseum4 {
+  position: absolute;
+  top: 94px;
+  left: 131px;
+}
+.back5 {
+  top: 800px;
+  left: 177px;
+}
+
+.back5 a{
+  color: black;
+  text-decoration: none;
+}
+.colosseum1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

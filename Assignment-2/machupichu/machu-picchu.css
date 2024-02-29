@@ -1,0 +1,66 @@
+.machu-picchu-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 12px;
+  width: 404px;
+  height: 241px;
+  object-fit: cover;
+}
+.machu-picchu-child,
+.machu-picchu-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+}
+.machu-picchu-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.incan {
+  color: inherit;
+}
+.virgins-of-the {
+  text-decoration: underline;
+}
+.this-incan-site-near-cuzco-pe {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.back3,
+.machu-picchu4 {
+  position: absolute;
+  top: 94px;
+  left: 109px;
+}
+.back3 {
+  top: 800px;
+  left: 177px;
+}
+
+.back3 a{
+  color: black;
+  text-decoration: none;
+}
+.machu-picchu1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

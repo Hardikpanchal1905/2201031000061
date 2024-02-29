@@ -1,0 +1,66 @@
+.great-wall-of-china-child,
+.great-wall-of-china-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+}
+.great-wall-of-china-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.great-wall-of-china-beijing-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 14px;
+  width: 402px;
+  height: 241px;
+  object-fit: cover;
+}
+.great-wall-of1 {
+  text-decoration: underline;
+}
+.great-wall-of-china1 {
+  color: inherit;
+}
+.great-might-be-container {
+  position: absolute;
+  top: 451px;
+  left: 26px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.back,
+.great-wall-of2 {
+  position: absolute;
+  top: 94px;
+  left: 70px;
+}
+.back {
+  top: 800px;
+  left: 177px;
+}
+
+.back a{
+  color: black;
+  text-decoration: none;
+}
+.great-wall-of-china {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

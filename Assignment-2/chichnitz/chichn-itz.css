@@ -1,0 +1,66 @@
+.el-castillo-pyramid-plaza-tolt-icon {
+  position: absolute;
+  top: 184px;
+  left: 14px;
+  width: 402px;
+  height: 240.5px;
+  object-fit: cover;
+}
+.chichn-itz-child,
+.chichn-itz-item {
+  position: absolute;
+  top: 75px;
+  left: 53px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-plum);
+  width: 324px;
+  height: 77px;
+}
+.chichn-itz-item {
+  top: 784px;
+  left: 118px;
+  width: 194px;
+  height: 71px;
+  cursor: pointer;
+}
+.chichn-itz3 {
+  text-decoration: underline;
+}
+.mayan {
+  color: inherit;
+}
+.chichn-itz-is-a-mayan-city-container {
+  position: absolute;
+  top: 456px;
+  left: 22px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 386px;
+  height: 328px;
+}
+.back1,
+.chichn-itz4 {
+  position: absolute;
+  top: 94px;
+  left: 121px;
+}
+.back1 {
+  top: 800px;
+  left: 177px;
+}
+
+.back1 a{
+  color: black;
+  text-decoration: none;
+}
+.chichn-itz1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

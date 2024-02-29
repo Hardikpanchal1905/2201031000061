@@ -1,0 +1,80 @@
+.login-page-child {
+  position: absolute;
+  top: 138px;
+  left: 59px;
+  background-color: var(--color-plum);
+  width: 311px;
+  height: 88px;
+}
+.log-in {
+  position: absolute;
+  top: 160px;
+  left: 158px;
+  font-size: var(--font-size-17xl);
+}
+.password,
+.username {
+  position: absolute;
+  top: 327px;
+  left: 55px;
+}
+.password {
+  top: 421px;
+  left: 57px;
+}
+.forgot-password,
+.sign-up1 {
+  position: absolute;
+  top: 513px;
+  left: 237px;
+  text-decoration: underline;
+}
+.sign-up1 {
+  top: 508px;
+  left: 55px;
+  cursor: pointer;
+}
+
+.sign-up1 a, .submit a{
+  color: black;
+  text-decoration: none;
+}
+.login-page-child1,
+.login-page-inner,
+.login-page-item {
+  position: absolute;
+  top: 319px;
+  left: 174px;
+  background-color: var(--color-plum);
+  width: 222px;
+  height: 40px;
+}
+.login-page-child1,
+.login-page-inner {
+  top: 413px;
+}
+.login-page-child1 {
+  top: 604px;
+  left: 84px;
+  border-radius: var(--br-31xl);
+  width: 254px;
+  height: 70px;
+  cursor: pointer;
+}
+.submit {
+  position: absolute;
+  top: 617px;
+  left: 155px;
+  font-size: var(--font-size-17xl);
+}
+.login-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-turquoise);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
